@@ -1,4 +1,4 @@
 class Dog
 end
 
-fido = Dog.authenticate_or_request_with_http_dige
+fido = Dog.new 
